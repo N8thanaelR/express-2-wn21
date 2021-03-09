@@ -1,0 +1,23 @@
+{
+  "name": "express-2-wn21-1",
+  "version": "1.0.0",
+  "description": "An Expression Application Generator (Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N8thanaelR/express-2-wn21.git"
+  },
+  "author": "Nathanael R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N8thanaelR/express-2-wn21/issues"
+  },
+  "homepage": "https://github.com/N8thanaelR/express-2-wn21#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
