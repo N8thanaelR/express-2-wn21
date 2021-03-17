@@ -1,5 +1,5 @@
 var express = require('express');
-var data = require('./data/test.json');
+var data = require('./test.json');
 
 
 var app = express();
